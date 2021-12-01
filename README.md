@@ -1,7 +1,7 @@
-# Advent_of_Code_2020
- Advent of Code 2020 - Challenges 
+# Advent_of_Code!
+Happy Advent of Code! :D - 
+
+Below is a progress track of all the current challenges completed to date this year.
 
  **Progress Track**
- _Below all challenges completed will be listed_
-
- * **Day 1**
+ * **Day 1 - Challenge 1**
